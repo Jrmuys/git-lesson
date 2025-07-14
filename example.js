@@ -1,1 +1,1 @@
-const variable = 5;
+const variable = 2;
